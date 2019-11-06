@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            pirHANA
-tagline:          'A SAP logistics consulting one-man band (for now).'
-description:      'A SAP logistics consulting one-man band (for now).'
+tagline:          'A SAP logistics consulting one-man band'
+description:      'A SAP logistics consulting one-man band'
 url:              https://fongandrew.github.io
 baseurl:          '/pirhana'
                   # the optional subpath of your site, e.g. "/blog"
