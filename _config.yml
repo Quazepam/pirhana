@@ -4,7 +4,7 @@ repository: quazepam/pirhana
 
 # Personal info
 name: André Sucena
-title: SAP Logistics consultant
+title: SAP consultant
 email: andresucena@pirhanaconsulting.com
 website: www.pirhanaconsulting.com
 
@@ -24,9 +24,9 @@ linkedin_username: andresucena
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey there. My name's André and I'm a 30-something portuguese industrial engineer turned SAP consultant. As well as logistics, I also have experience in man
+  Hey there. My name's André and I'm a 30-something portuguese industrial engineer turned SAP consultant. I have vast experience on the supply chain on both sides of the table, so if you need a logistics guy that will add value as a bridge between the end users and the more technical people, feel free to contact me and I'll be happy to help. 
 
-  I am most skilled in: <mark>SD</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Sales and Distribution (SD)</mark> and <mark>Materials Management (MM)</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +40,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in the supply chain and ERP systems, some of my other interests and hobbies are:
+   - Hiking
+   - Reading
+   - Playing guitar
+   - Watching old movies
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Fitness
 
 # Footer
 footer_show_references: true
