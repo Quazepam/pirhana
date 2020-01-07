@@ -40,15 +40,27 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
+  Hard skillset:
+   - Requirements gather
+   - Business blueprint
+   - SAP Customizing
+   - ABAP specifications
+   - Debugging
+   - Data migration (LSMW and LTMC)
+   - End-user training
+   - Stabilization and hypercare
+   - MS Office expertise
+   - Lean manufacturing knowledge
+   - Vast logistics know-how
+   
   Alongside my interests in the supply chain and ERP systems, some of my other interests and hobbies are:
    - Hiking
    - Reading
    - Creative writing
    - Playing guitar
-   - Watching old movies
-   - Gaming
-   - Fitness
-
+   - Going on road trips
+   - Watching really old movies
+   
 # Footer
 footer_show_references: true
 
