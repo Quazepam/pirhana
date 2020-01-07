@@ -7,8 +7,8 @@
     Novabase SGPS SA is a Portugal-based company active in the provision of information technology (IT) solutions. The Company provides services for a range of sectors, including finance, public administration, healthcare, energy and utilities, as well as telecommunications.
   description: | # this will include new lines to allow paragraphs
     I regularly perform requirements gathering, customize the SD/MM modules, give support in FI/CO, and write the specifications for ABAP development, while assigned to a customer in the downstream Oil and Gas industry. 
-
-- company: ROFF Consulting
+- layout: left
+  company: ROFF Consulting
   link: roffconsulting.com/en
   job_title: SAP Logistics consultant
   dates: July 2017 - March 2019
@@ -17,14 +17,16 @@
   description: | # this will include new lines to allow paragraphs
     I’ve worked through several S/4HANA projects in different stages in customers ranging from pulp and paper manufacturers to a office supplies manufacturer, focused in customizing the SD and MM modules, but also Settlement Management (LO-AB) and Advanced Returns Management (LO-ARM); 
     I completed one full implementation in the spare parts automotive industry.
-- company: RTE, Lda
+- layout: left 
+  company: RTE, Lda
   job_title: Materials planner and logistics manager
   dates: January 2015 - January 2016
   quote: >
     RTE is an assembly manufacturer that is the main one of the main suppliers of performance bicycles to Decathlon, producing more than one million units per year. 
 description: | # this will include new lines to allow paragraphs
     I managed the daily procurement processes while scheduling the deliveries from the suppliers according to the automatic warehouse free capacity.
-- company: Bosch Termotecnologia, SA
+- layout: left
+  company: Bosch Termotecnologia, SA
   link: bosch.pt/en/
   job_title: Logistics and customer service manager
   dates: December 2013 - December 2014 and January 2016 - July 2017
@@ -34,7 +36,8 @@ description: | # this will include new lines to allow paragraphs
     Dedicated as a business analyst to the Smartflow project, which consisted of several Lean Management sub-projects with the global aim of increasing logistics efficiency in both purchase to pay and order to cash.
     Overviewed customer orders throughout the supply chain, managed priorities between customers when the capacity was constrained, managed expectations and dealt with logistical complaints, while working to improve the service level and maintaining low stock levels across the organization’s warehouses around the world.
     Power user of SAP SD, but also MM, PP and APO so as to acheive the above.
-- company: Revigrés, Lda
+- layout: left
+  company: Revigrés, Lda
   link: revigres.pt/en/
   job_title: Logistics dissertation project in the logistics department
   dates: September 2012 - June 2013
