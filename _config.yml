@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hey there. My name's André and I'm a 30-something portuguese industrial engineer turned SAP consultant. I have vast experience on the supply chain on both sides of the table, so if you need a logistics guy that will add value as a bridge between the end users and the more technical people, feel free to contact me and I'll be happy to help. 
 
-  I am most skilled in: <mark>Sales and Distribution (SD)</mark> and <mark>Materials Management (MM)</mark>
+  I am most skilled in <mark>Sales and Distribution (SD)</mark> and <mark>Materials Management (MM).</mark>
 
 # Projects Section
 # projects_title: Projects

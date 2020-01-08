@@ -1,7 +1,7 @@
 - layout: left
   company: Novabase Consulting SGPS, SA
   link: www.novabase.pt/en
-  job_title: SAP Logistics Consultant
+  job_title: SAP Logistics consultant
   dates: March 2019 - Present
   quote: >
     Novabase SGPS SA is a Portugal-based company active in the provision of information technology (IT) solutions. The Company provides services for a range of sectors, including finance, public administration, healthcare, energy and utilities, as well as telecommunications.
@@ -15,7 +15,7 @@
   quote: >
     ROFF is a global company focused on SAP consultancy, running projects in all technological areas of business support. With a staff of over 1200 and offices in 12 countries and 4 continents.
   description: | # this will include new lines to allow paragraphs
-    I’ve worked through several <mark>S/4HANA</mark> projects in different stages in customers ranging from pulp and paper manufacturers to a office supplies manufacturer, focused in customizing the <mark>SD and MM modules</mark>, but also <mark>Settlement Management (LO-AB)</mark> and <mark>Advanced Returns Management (LO-ARM)</mark>;
+    I’ve worked through several <mark>S/4HANA</mark> projects in different stages in customers ranging from pulp and paper manufacturers to an office supplies manufacturer, focused in customizing the <mark>SD and MM modules</mark>, but also <mark>Settlement Management (LO-AB)</mark> and <mark>Advanced Returns Management (LO-ARM)</mark>;
     
     I completed one full implementation in the spare parts automotive industry.
 - layout: left 
@@ -47,4 +47,4 @@
   quote: >
     Revigrés is a world reference in ceramics, specialized in the production of wall and floor tiles.
   description: | # this will include new lines to allow paragraphs
-    I proposed as production planning and control system that deals with the lack of homogeneity which is a common trait in ceramic industries, using DDMRP and linear programming for determining the optimal master production schedule.
+    I proposed as production planning and control system that deals with the lack of homogeneity which is a common trait in ceramic industries, using DDMRP and linear programming for determining the optimal master production schedule. You can check it [over here](http://hdl.handle.net/10773/11412).
