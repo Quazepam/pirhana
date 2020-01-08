@@ -6,7 +6,7 @@
   quote: >
     Novabase SGPS SA is a Portugal-based company active in the provision of information technology (IT) solutions. The Company provides services for a range of sectors, including finance, public administration, healthcare, energy and utilities, as well as telecommunications.
   description: | # this will include new lines to allow paragraphs
-    I regularly perform requirements gathering, customize the SD/MM modules, give support in FI/CO, and write the specifications for ABAP development, while assigned to a customer in the downstream Oil and Gas industry. 
+    I regularly perform requirements gathering, customize the <mark>SD/MM</mark> and <mark>FI/CO</mark> modules, and write the specifications for ABAP development, while assigned to a customer in the downstream <mark>Oil and Gas industry</mark>. 
 - layout: left
   company: ROFF Consulting
   link: www.roffconsulting.com/en
@@ -15,7 +15,7 @@
   quote: >
     ROFF is a global company focused on SAP consultancy, running projects in all technological areas of business support. With a staff of over 1200 and offices in 12 countries and 4 continents.
   description: | # this will include new lines to allow paragraphs
-    I’ve worked through several S/4HANA projects in different stages in customers ranging from pulp and paper manufacturers to a office supplies manufacturer, focused in customizing the SD and MM modules, but also Settlement Management (LO-AB) and Advanced Returns Management (LO-ARM);
+    I’ve worked through several <mark>S/4HANA</mark> projects in different stages in customers ranging from pulp and paper manufacturers to a office supplies manufacturer, focused in customizing the <mark>SD and MM modules</mark>, but also <mark>Settlement Management (LO-AB)</mark> and <mark>Advanced Returns Management (LO-ARM)</mark>;
     
     I completed one full implementation in the spare parts automotive industry.
 - layout: left 
@@ -23,7 +23,7 @@
   job_title: Materials planner and logistics manager
   dates: January 2015 - January 2016
   quote: >
-    RTE is an assembly manufacturer that is the main one of the main suppliers of performance bicycles to Decathlon, producing more than one million units per year. 
+    RTE is an assembly manufacturer that is one of the main suppliers of bicycles to Decathlon, producing more than one million units per year. 
   description: | # this will include new lines to allow paragraphs
     I managed the daily procurement processes while scheduling the deliveries from the suppliers according to the automatic warehouse free capacity.
 - layout: left
@@ -38,7 +38,7 @@
     
     Overviewed customer orders throughout the supply chain, managed priorities between customers when the capacity was constrained, managed expectations and dealt with logistical complaints, while working to improve the service level and maintaining low stock levels across the organization’s warehouses around the world;
     
-    Power user of SAP SD, and also MM, PP and APO.
+    Power user of <mark>SAP SD, and also MM, PP and APO</mark>.
 - layout: left
   company: Revigrés, Lda
   link: www.revigres.pt/en/
